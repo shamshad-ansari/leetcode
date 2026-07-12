@@ -17,6 +17,7 @@ Leetcode questions I solved
 ## Graph Theory
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/shamshad-ansari/leetcode/tree/master/0133-clone-graph) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shamshad-ansari/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1584-min-cost-to-connect-all-points](https://github.com/shamshad-ansari/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Minimum Spanning Tree
@@ -30,12 +31,14 @@ Leetcode questions I solved
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/shamshad-ansari/leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/shamshad-ansari/leetcode/tree/master/0200-number-of-islands) |
 | [0778-swim-in-rising-water](https://github.com/shamshad-ansari/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shamshad-ansari/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/shamshad-ansari/leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/shamshad-ansari/leetcode/tree/master/0200-number-of-islands) |
 | [0778-swim-in-rising-water](https://github.com/shamshad-ansari/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shamshad-ansari/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -57,4 +60,8 @@ Leetcode questions I solved
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shamshad-ansari/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+## Hash Table
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/shamshad-ansari/leetcode/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
