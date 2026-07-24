@@ -16,6 +16,7 @@ Leetcode questions I solved
 | ------- |
 | [0130-surrounded-regions](https://github.com/shamshad-ansari/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shamshad-ansari/leetcode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/shamshad-ansari/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/shamshad-ansari/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/shamshad-ansari/leetcode/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/shamshad-ansari/leetcode/tree/master/0778-swim-in-rising-water) |
@@ -25,6 +26,7 @@ Leetcode questions I solved
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/shamshad-ansari/leetcode/tree/master/0133-clone-graph) |
+| [0547-number-of-provinces](https://github.com/shamshad-ansari/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/shamshad-ansari/leetcode/tree/master/0684-redundant-connection) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shamshad-ansari/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1584-min-cost-to-connect-all-points](https://github.com/shamshad-ansari/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
@@ -43,6 +45,7 @@ Leetcode questions I solved
 | [0130-surrounded-regions](https://github.com/shamshad-ansari/leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/shamshad-ansari/leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/shamshad-ansari/leetcode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/shamshad-ansari/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/shamshad-ansari/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/shamshad-ansari/leetcode/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/shamshad-ansari/leetcode/tree/master/0778-swim-in-rising-water) |
@@ -54,6 +57,7 @@ Leetcode questions I solved
 | [0130-surrounded-regions](https://github.com/shamshad-ansari/leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/shamshad-ansari/leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/shamshad-ansari/leetcode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/shamshad-ansari/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/shamshad-ansari/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/shamshad-ansari/leetcode/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/shamshad-ansari/leetcode/tree/master/0778-swim-in-rising-water) |
