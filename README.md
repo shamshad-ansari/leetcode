@@ -102,4 +102,8 @@ Leetcode questions I solved
 |  |
 | ------- |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/shamshad-ansari/leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/shamshad-ansari/leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
