@@ -5,6 +5,7 @@ Leetcode questions I solved
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shamshad-ansari/leetcode/tree/master/0014-longest-common-prefix) |
 | [0130-surrounded-regions](https://github.com/shamshad-ansari/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shamshad-ansari/leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/shamshad-ansari/leetcode/tree/master/0695-max-area-of-island) |
@@ -109,5 +110,10 @@ Leetcode questions I solved
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shamshad-ansari/leetcode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/shamshad-ansari/leetcode/tree/master/0058-length-of-last-word) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shamshad-ansari/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
