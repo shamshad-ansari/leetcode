@@ -8,6 +8,7 @@ Leetcode questions I solved
 | [0014-longest-common-prefix](https://github.com/shamshad-ansari/leetcode/tree/master/0014-longest-common-prefix) |
 | [0130-surrounded-regions](https://github.com/shamshad-ansari/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shamshad-ansari/leetcode/tree/master/0200-number-of-islands) |
+| [0496-next-greater-element-i](https://github.com/shamshad-ansari/leetcode/tree/master/0496-next-greater-element-i) |
 | [0695-max-area-of-island](https://github.com/shamshad-ansari/leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/shamshad-ansari/leetcode/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/shamshad-ansari/leetcode/tree/master/0778-swim-in-rising-water) |
@@ -99,6 +100,7 @@ Leetcode questions I solved
 | ------- |
 | [0133-clone-graph](https://github.com/shamshad-ansari/leetcode/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/shamshad-ansari/leetcode/tree/master/0146-lru-cache) |
+| [0496-next-greater-element-i](https://github.com/shamshad-ansari/leetcode/tree/master/0496-next-greater-element-i) |
 | [0721-accounts-merge](https://github.com/shamshad-ansari/leetcode/tree/master/0721-accounts-merge) |
 | [1331-rank-transform-of-an-array](https://github.com/shamshad-ansari/leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
@@ -141,4 +143,9 @@ Leetcode questions I solved
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/shamshad-ansari/leetcode/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/shamshad-ansari/leetcode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/shamshad-ansari/leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
