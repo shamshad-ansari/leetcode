@@ -9,6 +9,7 @@ Leetcode questions I solved
 | [0130-surrounded-regions](https://github.com/shamshad-ansari/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shamshad-ansari/leetcode/tree/master/0200-number-of-islands) |
 | [0496-next-greater-element-i](https://github.com/shamshad-ansari/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/shamshad-ansari/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0695-max-area-of-island](https://github.com/shamshad-ansari/leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/shamshad-ansari/leetcode/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/shamshad-ansari/leetcode/tree/master/0778-swim-in-rising-water) |
@@ -144,8 +145,10 @@ Leetcode questions I solved
 | ------- |
 | [0155-min-stack](https://github.com/shamshad-ansari/leetcode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/shamshad-ansari/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/shamshad-ansari/leetcode/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/shamshad-ansari/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/shamshad-ansari/leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
