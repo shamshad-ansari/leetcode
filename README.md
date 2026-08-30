@@ -16,6 +16,7 @@ Leetcode questions I solved
 | [1331-rank-transform-of-an-array](https://github.com/shamshad-ansari/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1584-min-cost-to-connect-all-points](https://github.com/shamshad-ansari/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/shamshad-ansari/leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/shamshad-ansari/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Union-Find
 |  |
 | ------- |
@@ -151,4 +152,8 @@ Leetcode questions I solved
 | ------- |
 | [0496-next-greater-element-i](https://github.com/shamshad-ansari/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shamshad-ansari/leetcode/tree/master/0503-next-greater-element-ii) |
+## Greedy
+|  |
+| ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/shamshad-ansari/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 <!---LeetCode Topics End-->
