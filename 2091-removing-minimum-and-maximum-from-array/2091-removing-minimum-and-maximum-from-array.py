@@ -5,35 +5,21 @@ class Solution:
         n = len(nums)
         count = 0
         for i, num in enumerate(nums):
-            count += 1
-            if num == maxNum:
-                beyondMax = n - i
-                beforeMax = i + 1
-                bestMax = min(beyondMax, beforeMax)
-                print(bestMax)
-            if num == minNum:
-                beyondMin = n - i
-                beforeMin = i + 1
-                bestMin = min(beforeMin, beyondMin)
-                print(bestMin)
-        answer = min(
-            max(beforeMin, beforeMax),
-            max(beyondMin, beyondMax),
-            beforeMin + beyondMax,
-            beforeMax + beyondMin
-        )
-        return answer
+                    n = len(nums)
 
-'''
-# both from left
-max(beforeMin, beforeMax)
+        minIndex = nums.index(min(nums))
+        maxIndex = nums.index(max(nums))
 
-# both from right
-max(beyondMin, beyondMax)
+        left = min(minIndex, maxIndex)
+        right = max(minIndex, maxIndex)
 
-# min from left, max from right
-beforeMin + beyondMax
+        # Option 1: Remove both from the left
+        bothLeft = right + 1
 
-# max from left, min from right
-beforeMax + beyondMin
-'''
+        # Option 2: Remove both from the right
+        bothRight = n - left
+
+        # Option 3: Remove one from each side
+        bothSides = (left + 1) + (n - right)
+
+        return min(bothLeft, bothRight, bothSides)
