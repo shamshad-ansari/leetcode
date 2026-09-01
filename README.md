@@ -6,6 +6,7 @@ Leetcode questions I solved
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shamshad-ansari/leetcode/tree/master/0014-longest-common-prefix) |
+| [0078-subsets](https://github.com/shamshad-ansari/leetcode/tree/master/0078-subsets) |
 | [0130-surrounded-regions](https://github.com/shamshad-ansari/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shamshad-ansari/leetcode/tree/master/0200-number-of-islands) |
 | [0496-next-greater-element-i](https://github.com/shamshad-ansari/leetcode/tree/master/0496-next-greater-element-i) |
@@ -157,4 +158,12 @@ Leetcode questions I solved
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shamshad-ansari/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/shamshad-ansari/leetcode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/shamshad-ansari/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
