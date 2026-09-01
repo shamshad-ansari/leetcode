@@ -128,6 +128,7 @@ Leetcode questions I solved
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/shamshad-ansari/leetcode/tree/master/0009-palindrome-number) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/shamshad-ansari/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 ## String
 |  |
 | ------- |
