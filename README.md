@@ -9,6 +9,7 @@ Leetcode questions I solved
 | [0039-combination-sum](https://github.com/shamshad-ansari/leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/shamshad-ansari/leetcode/tree/master/0078-subsets) |
 | [0130-surrounded-regions](https://github.com/shamshad-ansari/leetcode/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/shamshad-ansari/leetcode/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/shamshad-ansari/leetcode/tree/master/0200-number-of-islands) |
 | [0496-next-greater-element-i](https://github.com/shamshad-ansari/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shamshad-ansari/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -172,5 +173,6 @@ Leetcode questions I solved
 |  |
 | ------- |
 | [0078-subsets](https://github.com/shamshad-ansari/leetcode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/shamshad-ansari/leetcode/tree/master/0136-single-number) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shamshad-ansari/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
