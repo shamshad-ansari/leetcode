@@ -133,6 +133,7 @@ Leetcode questions I solved
 | [0014-longest-common-prefix](https://github.com/shamshad-ansari/leetcode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/shamshad-ansari/leetcode/tree/master/0058-length-of-last-word) |
 | [0721-accounts-merge](https://github.com/shamshad-ansari/leetcode/tree/master/0721-accounts-merge) |
+| [3612-process-string-with-special-operations-i](https://github.com/shamshad-ansari/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 ## Trie
 |  |
 | ------- |
@@ -181,4 +182,8 @@ Leetcode questions I solved
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shamshad-ansari/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Simulation
+|  |
+| ------- |
+| [3612-process-string-with-special-operations-i](https://github.com/shamshad-ansari/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 <!---LeetCode Topics End-->
