@@ -8,6 +8,7 @@ Leetcode questions I solved
 | [0004-median-of-two-sorted-arrays](https://github.com/shamshad-ansari/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/shamshad-ansari/leetcode/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/shamshad-ansari/leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/shamshad-ansari/leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/shamshad-ansari/leetcode/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/shamshad-ansari/leetcode/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/shamshad-ansari/leetcode/tree/master/0130-surrounded-regions) |
@@ -179,6 +180,7 @@ Leetcode questions I solved
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/shamshad-ansari/leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/shamshad-ansari/leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/shamshad-ansari/leetcode/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
