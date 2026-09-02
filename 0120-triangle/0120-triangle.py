@@ -1,17 +1,12 @@
 class Solution:
     def minimumTotal(self, triangle: List[List[int]]) -> int:
-        memo = {}
-        def solve(row,col):
-            if row >= len(triangle) or col >= len(triangle[-1]):
-                return 0
-            
-            if (row,col) in memo:
-                return memo[(row,col)]
-            
-            left = triangle[row][col] + solve(row+1,col)
-            right = triangle[row][col] + solve(row+1,col+1)
+        n = len(triangle)
+        dp = [[0] * len(row) for row in triangle]
+        dp[n-1] = triangle[n-1][:]
 
-            memo[(row,col)] = min(left, right)
-            return memo[(row,col)]
-
-        return solve(0,0)
+        for row in range(n-2,-1,-1):
+            for col in range(len(triangle[row])):
+                left = dp[row + 1][col]
+                right = dp[row+1][col+1]
+                dp[row][col] = triangle[row][col] + min(left, right)
+        return dp[0][0]
