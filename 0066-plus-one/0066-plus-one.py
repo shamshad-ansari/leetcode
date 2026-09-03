@@ -1,15 +1,12 @@
 class Solution:
     def plusOne(self, arr: List[int]) -> List[int]:
-        tmp = []
+        digit = 0
         for num in arr:
-            tmp.append(str(num))
-        num = int(''.join(tmp))
-        num += 1
-        num = str(num)
+            digit = digit * 10 + num
         result = []
-        for n in num:
-            result.append(int(n))
-        return result
-
-
-            
+        digit += 1
+        while digit > 0:
+            rm = digit % 10
+            result.append(rm)
+            digit = digit//10
+        return result[::-1]            
