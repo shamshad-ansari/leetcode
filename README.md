@@ -9,6 +9,7 @@ Leetcode questions I solved
 | [0014-longest-common-prefix](https://github.com/shamshad-ansari/leetcode/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/shamshad-ansari/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shamshad-ansari/leetcode/tree/master/0040-combination-sum-ii) |
+| [0066-plus-one](https://github.com/shamshad-ansari/leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/shamshad-ansari/leetcode/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/shamshad-ansari/leetcode/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/shamshad-ansari/leetcode/tree/master/0130-surrounded-regions) |
@@ -133,6 +134,7 @@ Leetcode questions I solved
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/shamshad-ansari/leetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/shamshad-ansari/leetcode/tree/master/0066-plus-one) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/shamshad-ansari/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 ## String
 |  |
