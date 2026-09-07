@@ -31,6 +31,7 @@ Leetcode questions I solved
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/shamshad-ansari/leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shamshad-ansari/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shamshad-ansari/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shamshad-ansari/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shamshad-ansari/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
@@ -137,6 +138,7 @@ Leetcode questions I solved
 | [1331-rank-transform-of-an-array](https://github.com/shamshad-ansari/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1396-design-underground-system](https://github.com/shamshad-ansari/leetcode/tree/master/1396-design-underground-system) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shamshad-ansari/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shamshad-ansari/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shamshad-ansari/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Sorting
 |  |
@@ -168,11 +170,13 @@ Leetcode questions I solved
 | [0409-longest-palindrome](https://github.com/shamshad-ansari/leetcode/tree/master/0409-longest-palindrome) |
 | [0721-accounts-merge](https://github.com/shamshad-ansari/leetcode/tree/master/0721-accounts-merge) |
 | [1396-design-underground-system](https://github.com/shamshad-ansari/leetcode/tree/master/1396-design-underground-system) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shamshad-ansari/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3612-process-string-with-special-operations-i](https://github.com/shamshad-ansari/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shamshad-ansari/leetcode/tree/master/0014-longest-common-prefix) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shamshad-ansari/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Linked List
 |  |
 | ------- |
