@@ -5,6 +5,7 @@ Leetcode questions I solved
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shamshad-ansari/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/shamshad-ansari/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/shamshad-ansari/leetcode/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/shamshad-ansari/leetcode/tree/master/0039-combination-sum) |
@@ -114,6 +115,7 @@ Leetcode questions I solved
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shamshad-ansari/leetcode/tree/master/0001-two-sum) |
 | [0133-clone-graph](https://github.com/shamshad-ansari/leetcode/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/shamshad-ansari/leetcode/tree/master/0146-lru-cache) |
 | [0496-next-greater-element-i](https://github.com/shamshad-ansari/leetcode/tree/master/0496-next-greater-element-i) |
