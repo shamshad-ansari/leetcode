@@ -18,6 +18,7 @@ Leetcode questions I solved
 | [0130-surrounded-regions](https://github.com/shamshad-ansari/leetcode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/shamshad-ansari/leetcode/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/shamshad-ansari/leetcode/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/shamshad-ansari/leetcode/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/shamshad-ansari/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shamshad-ansari/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/shamshad-ansari/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -124,6 +125,7 @@ Leetcode questions I solved
 | [0133-clone-graph](https://github.com/shamshad-ansari/leetcode/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/shamshad-ansari/leetcode/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/shamshad-ansari/leetcode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/shamshad-ansari/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shamshad-ansari/leetcode/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/shamshad-ansari/leetcode/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/shamshad-ansari/leetcode/tree/master/0496-next-greater-element-i) |
@@ -137,6 +139,7 @@ Leetcode questions I solved
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/shamshad-ansari/leetcode/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/shamshad-ansari/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shamshad-ansari/leetcode/tree/master/0242-valid-anagram) |
 | [0721-accounts-merge](https://github.com/shamshad-ansari/leetcode/tree/master/0721-accounts-merge) |
 | [1331-rank-transform-of-an-array](https://github.com/shamshad-ansari/leetcode/tree/master/1331-rank-transform-of-an-array) |
