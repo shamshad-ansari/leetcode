@@ -167,6 +167,7 @@ Leetcode questions I solved
 | [0009-palindrome-number](https://github.com/shamshad-ansari/leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/shamshad-ansari/leetcode/tree/master/0066-plus-one) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/shamshad-ansari/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [3870-count-commas-in-range](https://github.com/shamshad-ansari/leetcode/tree/master/3870-count-commas-in-range) |
 ## String
 |  |
 | ------- |
