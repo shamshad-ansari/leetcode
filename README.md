@@ -134,6 +134,7 @@ Leetcode questions I solved
 | [0219-contains-duplicate-ii](https://github.com/shamshad-ansari/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/shamshad-ansari/leetcode/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/shamshad-ansari/leetcode/tree/master/0299-bulls-and-cows) |
+| [0383-ransom-note](https://github.com/shamshad-ansari/leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/shamshad-ansari/leetcode/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/shamshad-ansari/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/shamshad-ansari/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -171,6 +172,7 @@ Leetcode questions I solved
 | [0205-isomorphic-strings](https://github.com/shamshad-ansari/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shamshad-ansari/leetcode/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/shamshad-ansari/leetcode/tree/master/0299-bulls-and-cows) |
+| [0383-ransom-note](https://github.com/shamshad-ansari/leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/shamshad-ansari/leetcode/tree/master/0409-longest-palindrome) |
 | [0721-accounts-merge](https://github.com/shamshad-ansari/leetcode/tree/master/0721-accounts-merge) |
 | [1396-design-underground-system](https://github.com/shamshad-ansari/leetcode/tree/master/1396-design-underground-system) |
@@ -248,6 +250,7 @@ Leetcode questions I solved
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/shamshad-ansari/leetcode/tree/master/0299-bulls-and-cows) |
+| [0383-ransom-note](https://github.com/shamshad-ansari/leetcode/tree/master/0383-ransom-note) |
 ## Tree
 |  |
 | ------- |
