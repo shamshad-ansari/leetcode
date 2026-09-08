@@ -142,6 +142,7 @@ Leetcode questions I solved
 | [0560-subarray-sum-equals-k](https://github.com/shamshad-ansari/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0690-employee-importance](https://github.com/shamshad-ansari/leetcode/tree/master/0690-employee-importance) |
 | [0721-accounts-merge](https://github.com/shamshad-ansari/leetcode/tree/master/0721-accounts-merge) |
+| [1189-maximum-number-of-balloons](https://github.com/shamshad-ansari/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/shamshad-ansari/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1396-design-underground-system](https://github.com/shamshad-ansari/leetcode/tree/master/1396-design-underground-system) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shamshad-ansari/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -179,6 +180,7 @@ Leetcode questions I solved
 | [0409-longest-palindrome](https://github.com/shamshad-ansari/leetcode/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/shamshad-ansari/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0721-accounts-merge](https://github.com/shamshad-ansari/leetcode/tree/master/0721-accounts-merge) |
+| [1189-maximum-number-of-balloons](https://github.com/shamshad-ansari/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1396-design-underground-system](https://github.com/shamshad-ansari/leetcode/tree/master/1396-design-underground-system) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shamshad-ansari/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3612-process-string-with-special-operations-i](https://github.com/shamshad-ansari/leetcode/tree/master/3612-process-string-with-special-operations-i) |
@@ -256,6 +258,7 @@ Leetcode questions I solved
 | [0299-bulls-and-cows](https://github.com/shamshad-ansari/leetcode/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/shamshad-ansari/leetcode/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/shamshad-ansari/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1189-maximum-number-of-balloons](https://github.com/shamshad-ansari/leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Tree
 |  |
 | ------- |
