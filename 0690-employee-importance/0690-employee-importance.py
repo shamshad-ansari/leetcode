@@ -15,12 +15,24 @@ class Solution:
             employee_map[employee.id] = employee
 
         total = 0
-        q = deque([id])
-        while q:
-            id = q.popleft()
+        # q = deque([id])
+        # while q:
+        #     id = q.popleft()
+        #     employee = employee_map[id]
+        #     total += employee.importance
+        #     subordinates = employee.subordinates
+        #     for subordinate in subordinates:
+        #         q.append(subordinate)
+        # return total
+
+        def dfs(id):
+            nonlocal total
+
             employee = employee_map[id]
             total += employee.importance
             subordinates = employee.subordinates
+            
             for subordinate in subordinates:
-                q.append(subordinate)
+                dfs(subordinate)
+        dfs(id)
         return total
