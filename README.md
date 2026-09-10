@@ -20,6 +20,7 @@ Leetcode questions I solved
 | [0200-number-of-islands](https://github.com/shamshad-ansari/leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/shamshad-ansari/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shamshad-ansari/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0322-coin-change](https://github.com/shamshad-ansari/leetcode/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/shamshad-ansari/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shamshad-ansari/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/shamshad-ansari/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -88,6 +89,7 @@ Leetcode questions I solved
 | [0130-surrounded-regions](https://github.com/shamshad-ansari/leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/shamshad-ansari/leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/shamshad-ansari/leetcode/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/shamshad-ansari/leetcode/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/shamshad-ansari/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/shamshad-ansari/leetcode/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/shamshad-ansari/leetcode/tree/master/0690-employee-importance) |
@@ -116,6 +118,7 @@ Leetcode questions I solved
 |  |
 | ------- |
 | [0120-triangle](https://github.com/shamshad-ansari/leetcode/tree/master/0120-triangle) |
+| [0322-coin-change](https://github.com/shamshad-ansari/leetcode/tree/master/0322-coin-change) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shamshad-ansari/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/shamshad-ansari/leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 ## Shortest Path
@@ -268,4 +271,12 @@ Leetcode questions I solved
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/shamshad-ansari/leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/shamshad-ansari/leetcode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/shamshad-ansari/leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
