@@ -83,6 +83,7 @@ Leetcode questions I solved
 | [0787-cheapest-flights-within-k-stops](https://github.com/shamshad-ansari/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/shamshad-ansari/leetcode/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shamshad-ansari/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shamshad-ansari/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -267,6 +268,7 @@ Leetcode questions I solved
 |  |
 | ------- |
 | [0690-employee-importance](https://github.com/shamshad-ansari/leetcode/tree/master/0690-employee-importance) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shamshad-ansari/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -279,4 +281,8 @@ Leetcode questions I solved
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/shamshad-ansari/leetcode/tree/master/0322-coin-change) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shamshad-ansari/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
