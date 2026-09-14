@@ -11,6 +11,7 @@ Leetcode questions I solved
 | [0039-combination-sum](https://github.com/shamshad-ansari/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shamshad-ansari/leetcode/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/shamshad-ansari/leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/shamshad-ansari/leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/shamshad-ansari/leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/shamshad-ansari/leetcode/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/shamshad-ansari/leetcode/tree/master/0120-triangle) |
@@ -156,6 +157,7 @@ Leetcode questions I solved
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/shamshad-ansari/leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/shamshad-ansari/leetcode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/shamshad-ansari/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shamshad-ansari/leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/shamshad-ansari/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -285,4 +287,8 @@ Leetcode questions I solved
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shamshad-ansari/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/shamshad-ansari/leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
