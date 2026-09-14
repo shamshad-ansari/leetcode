@@ -172,6 +172,7 @@ Leetcode questions I solved
 | ------- |
 | [0009-palindrome-number](https://github.com/shamshad-ansari/leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/shamshad-ansari/leetcode/tree/master/0066-plus-one) |
+| [0836-rectangle-overlap](https://github.com/shamshad-ansari/leetcode/tree/master/0836-rectangle-overlap) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/shamshad-ansari/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3870-count-commas-in-range](https://github.com/shamshad-ansari/leetcode/tree/master/3870-count-commas-in-range) |
 ## String
@@ -291,4 +292,8 @@ Leetcode questions I solved
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/shamshad-ansari/leetcode/tree/master/0056-merge-intervals) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/shamshad-ansari/leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
