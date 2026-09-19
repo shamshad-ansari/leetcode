@@ -131,6 +131,7 @@ Leetcode questions I solved
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shamshad-ansari/leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/shamshad-ansari/leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/shamshad-ansari/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/shamshad-ansari/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/shamshad-ansari/leetcode/tree/master/0133-clone-graph) |
@@ -171,6 +172,7 @@ Leetcode questions I solved
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/shamshad-ansari/leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/shamshad-ansari/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/shamshad-ansari/leetcode/tree/master/0066-plus-one) |
 | [0836-rectangle-overlap](https://github.com/shamshad-ansari/leetcode/tree/master/0836-rectangle-overlap) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/shamshad-ansari/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -178,6 +180,7 @@ Leetcode questions I solved
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shamshad-ansari/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shamshad-ansari/leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/shamshad-ansari/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shamshad-ansari/leetcode/tree/master/0058-length-of-last-word) |
