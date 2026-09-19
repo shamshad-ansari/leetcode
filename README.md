@@ -203,6 +203,7 @@ Leetcode questions I solved
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/shamshad-ansari/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0146-lru-cache](https://github.com/shamshad-ansari/leetcode/tree/master/0146-lru-cache) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/shamshad-ansari/leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Design
@@ -299,4 +300,8 @@ Leetcode questions I solved
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/shamshad-ansari/leetcode/tree/master/0836-rectangle-overlap) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/shamshad-ansari/leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
