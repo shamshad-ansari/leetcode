@@ -16,6 +16,7 @@ Leetcode questions I solved
 | [0049-group-anagrams](https://github.com/shamshad-ansari/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/shamshad-ansari/leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/shamshad-ansari/leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/shamshad-ansari/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/shamshad-ansari/leetcode/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/shamshad-ansari/leetcode/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/shamshad-ansari/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -115,6 +116,7 @@ Leetcode questions I solved
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/shamshad-ansari/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/shamshad-ansari/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shamshad-ansari/leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/shamshad-ansari/leetcode/tree/master/0695-max-area-of-island) |
@@ -137,6 +139,7 @@ Leetcode questions I solved
 | [0001-two-sum](https://github.com/shamshad-ansari/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/shamshad-ansari/leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/shamshad-ansari/leetcode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/shamshad-ansari/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/shamshad-ansari/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/shamshad-ansari/leetcode/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/shamshad-ansari/leetcode/tree/master/0146-lru-cache) |
