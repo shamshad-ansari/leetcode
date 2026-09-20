@@ -40,6 +40,7 @@ Leetcode questions I solved
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/shamshad-ansari/leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shamshad-ansari/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shamshad-ansari/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/shamshad-ansari/leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/shamshad-ansari/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/shamshad-ansari/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shamshad-ansari/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
