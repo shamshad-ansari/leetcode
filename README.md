@@ -33,6 +33,7 @@ Leetcode questions I solved
 | [0695-max-area-of-island](https://github.com/shamshad-ansari/leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/shamshad-ansari/leetcode/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/shamshad-ansari/leetcode/tree/master/0778-swim-in-rising-water) |
+| [0942-di-string-match](https://github.com/shamshad-ansari/leetcode/tree/master/0942-di-string-match) |
 | [1331-rank-transform-of-an-array](https://github.com/shamshad-ansari/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1584-min-cost-to-connect-all-points](https://github.com/shamshad-ansari/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/shamshad-ansari/leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
@@ -201,6 +202,7 @@ Leetcode questions I solved
 | [0409-longest-palindrome](https://github.com/shamshad-ansari/leetcode/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/shamshad-ansari/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0721-accounts-merge](https://github.com/shamshad-ansari/leetcode/tree/master/0721-accounts-merge) |
+| [0942-di-string-match](https://github.com/shamshad-ansari/leetcode/tree/master/0942-di-string-match) |
 | [1189-maximum-number-of-balloons](https://github.com/shamshad-ansari/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1396-design-underground-system](https://github.com/shamshad-ansari/leetcode/tree/master/1396-design-underground-system) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shamshad-ansari/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -241,6 +243,7 @@ Leetcode questions I solved
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/shamshad-ansari/leetcode/tree/master/0409-longest-palindrome) |
+| [0942-di-string-match](https://github.com/shamshad-ansari/leetcode/tree/master/0942-di-string-match) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shamshad-ansari/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Backtracking
 |  |
@@ -322,6 +325,7 @@ Leetcode questions I solved
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shamshad-ansari/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shamshad-ansari/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shamshad-ansari/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0942-di-string-match](https://github.com/shamshad-ansari/leetcode/tree/master/0942-di-string-match) |
 ## String Matching
 |  |
 | ------- |
