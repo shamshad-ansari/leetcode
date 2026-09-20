@@ -8,4 +8,4 @@ class Solution:
                 return mn
             mx = mn
             mn = rem
-        return mn
+        # return mn
