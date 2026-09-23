@@ -34,6 +34,7 @@ Leetcode questions I solved
 | [0721-accounts-merge](https://github.com/shamshad-ansari/leetcode/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/shamshad-ansari/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0942-di-string-match](https://github.com/shamshad-ansari/leetcode/tree/master/0942-di-string-match) |
+| [0973-k-closest-points-to-origin](https://github.com/shamshad-ansari/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1002-find-common-characters](https://github.com/shamshad-ansari/leetcode/tree/master/1002-find-common-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/shamshad-ansari/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1584-min-cost-to-connect-all-points](https://github.com/shamshad-ansari/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
@@ -121,6 +122,7 @@ Leetcode questions I solved
 | [0451-sort-characters-by-frequency](https://github.com/shamshad-ansari/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0778-swim-in-rising-water](https://github.com/shamshad-ansari/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shamshad-ansari/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0973-k-closest-points-to-origin](https://github.com/shamshad-ansari/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Matrix
 |  |
 | ------- |
@@ -183,6 +185,7 @@ Leetcode questions I solved
 | [0242-valid-anagram](https://github.com/shamshad-ansari/leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/shamshad-ansari/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0721-accounts-merge](https://github.com/shamshad-ansari/leetcode/tree/master/0721-accounts-merge) |
+| [0973-k-closest-points-to-origin](https://github.com/shamshad-ansari/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1331-rank-transform-of-an-array](https://github.com/shamshad-ansari/leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Dijkstra's Algorithm
 |  |
@@ -196,6 +199,7 @@ Leetcode questions I solved
 | [0066-plus-one](https://github.com/shamshad-ansari/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/shamshad-ansari/leetcode/tree/master/0067-add-binary) |
 | [0836-rectangle-overlap](https://github.com/shamshad-ansari/leetcode/tree/master/0836-rectangle-overlap) |
+| [0973-k-closest-points-to-origin](https://github.com/shamshad-ansari/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shamshad-ansari/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/shamshad-ansari/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shamshad-ansari/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -284,6 +288,7 @@ Leetcode questions I solved
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shamshad-ansari/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0973-k-closest-points-to-origin](https://github.com/shamshad-ansari/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Simulation
 |  |
 | ------- |
@@ -339,6 +344,7 @@ Leetcode questions I solved
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/shamshad-ansari/leetcode/tree/master/0836-rectangle-overlap) |
+| [0973-k-closest-points-to-origin](https://github.com/shamshad-ansari/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Recursion
 |  |
 | ------- |
@@ -381,4 +387,12 @@ Leetcode questions I solved
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shamshad-ansari/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shamshad-ansari/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/shamshad-ansari/leetcode/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/shamshad-ansari/leetcode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
