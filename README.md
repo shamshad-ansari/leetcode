@@ -209,6 +209,7 @@ Leetcode questions I solved
 | [0049-group-anagrams](https://github.com/shamshad-ansari/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shamshad-ansari/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/shamshad-ansari/leetcode/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/shamshad-ansari/leetcode/tree/master/0071-simplify-path) |
 | [0205-isomorphic-strings](https://github.com/shamshad-ansari/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shamshad-ansari/leetcode/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/shamshad-ansari/leetcode/tree/master/0299-bulls-and-cows) |
@@ -250,6 +251,7 @@ Leetcode questions I solved
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/shamshad-ansari/leetcode/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/shamshad-ansari/leetcode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/shamshad-ansari/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shamshad-ansari/leetcode/tree/master/0503-next-greater-element-ii) |
