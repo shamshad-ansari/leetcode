@@ -183,6 +183,7 @@ Leetcode questions I solved
 | ------- |
 | [0049-group-anagrams](https://github.com/shamshad-ansari/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/shamshad-ansari/leetcode/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/shamshad-ansari/leetcode/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/shamshad-ansari/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shamshad-ansari/leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/shamshad-ansari/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -243,6 +244,7 @@ Leetcode questions I solved
 | [0021-merge-two-sorted-lists](https://github.com/shamshad-ansari/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/shamshad-ansari/leetcode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/shamshad-ansari/leetcode/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/shamshad-ansari/leetcode/tree/master/0148-sort-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/shamshad-ansari/leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Design
 |  |
@@ -292,6 +294,7 @@ Leetcode questions I solved
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shamshad-ansari/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/shamshad-ansari/leetcode/tree/master/0148-sort-list) |
 | [0973-k-closest-points-to-origin](https://github.com/shamshad-ansari/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Simulation
 |  |
@@ -363,6 +366,7 @@ Leetcode questions I solved
 | [0027-remove-element](https://github.com/shamshad-ansari/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shamshad-ansari/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0143-reorder-list](https://github.com/shamshad-ansari/leetcode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/shamshad-ansari/leetcode/tree/master/0148-sort-list) |
 | [0942-di-string-match](https://github.com/shamshad-ansari/leetcode/tree/master/0942-di-string-match) |
 ## String Matching
 |  |
@@ -402,4 +406,8 @@ Leetcode questions I solved
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/shamshad-ansari/leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/shamshad-ansari/leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
