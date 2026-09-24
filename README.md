@@ -241,6 +241,7 @@ Leetcode questions I solved
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shamshad-ansari/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/shamshad-ansari/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/shamshad-ansari/leetcode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/shamshad-ansari/leetcode/tree/master/0146-lru-cache) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/shamshad-ansari/leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Design
@@ -258,6 +259,7 @@ Leetcode questions I solved
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/shamshad-ansari/leetcode/tree/master/0071-simplify-path) |
+| [0143-reorder-list](https://github.com/shamshad-ansari/leetcode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/shamshad-ansari/leetcode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/shamshad-ansari/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shamshad-ansari/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -352,6 +354,7 @@ Leetcode questions I solved
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shamshad-ansari/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/shamshad-ansari/leetcode/tree/master/0143-reorder-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -359,6 +362,7 @@ Leetcode questions I solved
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shamshad-ansari/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shamshad-ansari/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shamshad-ansari/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0143-reorder-list](https://github.com/shamshad-ansari/leetcode/tree/master/0143-reorder-list) |
 | [0942-di-string-match](https://github.com/shamshad-ansari/leetcode/tree/master/0942-di-string-match) |
 ## String Matching
 |  |
