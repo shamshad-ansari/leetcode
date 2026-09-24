@@ -20,10 +20,12 @@ class Solution:
         while i < j:
             space[i].next = space[j]
             i += 1
-            if i == j:
-                break
+            # if i == j:
+            #     break
             space[j].next = space[i]
             j -= 1   
         
         space[i].next = None
         return space[i]
+
+
