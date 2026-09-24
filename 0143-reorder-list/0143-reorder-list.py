@@ -4,28 +4,36 @@
 #         self.val = val
 #         self.next = next
 class Solution:
+    def reverse(self,node):
+        if node.next is None:
+            return node
+        
+        new_head = self.reverse(node.next)
+        node.next.next = node
+        node.next = None
+
+        return new_head
+
     def reorderList(self, head: ListNode | None) -> None:
         """
         Do not return anything, modify head in-place instead.
         """
-        space = []
-        temp = head
-        while temp:
-            space.append(temp)
-            temp = temp.next
+        slow = head
+        fast = head
+
+        while fast and fast.next:
+            slow = slow.next 
+            fast = fast.next.next
         
-        i = 0
-        j = len(space) - 1
+        curr = head
+        rev = self.reverse(slow)
 
-        while i < j:
-            space[i].next = space[j]
-            i += 1
-            # if i == j:
-            #     break
-            space[j].next = space[i]
-            j -= 1   
+        while rev and rev.next:
+            currNext = curr.next
+            curr.next = rev
+            revNext = rev.next
+            rev.next = currNext
+            rev = revNext
+            curr = currNext
         
-        space[i].next = None
-        return space[i]
-
-
+        return head
