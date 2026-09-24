@@ -33,6 +33,7 @@ Leetcode questions I solved
 | [0695-max-area-of-island](https://github.com/shamshad-ansari/leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/shamshad-ansari/leetcode/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/shamshad-ansari/leetcode/tree/master/0778-swim-in-rising-water) |
+| [0885-spiral-matrix-iii](https://github.com/shamshad-ansari/leetcode/tree/master/0885-spiral-matrix-iii) |
 | [0942-di-string-match](https://github.com/shamshad-ansari/leetcode/tree/master/0942-di-string-match) |
 | [0973-k-closest-points-to-origin](https://github.com/shamshad-ansari/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1002-find-common-characters](https://github.com/shamshad-ansari/leetcode/tree/master/1002-find-common-characters) |
@@ -131,6 +132,7 @@ Leetcode questions I solved
 | [0200-number-of-islands](https://github.com/shamshad-ansari/leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/shamshad-ansari/leetcode/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/shamshad-ansari/leetcode/tree/master/0778-swim-in-rising-water) |
+| [0885-spiral-matrix-iii](https://github.com/shamshad-ansari/leetcode/tree/master/0885-spiral-matrix-iii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shamshad-ansari/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Dynamic Programming
 |  |
@@ -293,6 +295,7 @@ Leetcode questions I solved
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/shamshad-ansari/leetcode/tree/master/0067-add-binary) |
+| [0885-spiral-matrix-iii](https://github.com/shamshad-ansari/leetcode/tree/master/0885-spiral-matrix-iii) |
 | [3612-process-string-with-special-operations-i](https://github.com/shamshad-ansari/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 ## Enumeration
 |  |
