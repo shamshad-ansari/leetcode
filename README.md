@@ -269,6 +269,7 @@ Leetcode questions I solved
 | [0146-lru-cache](https://github.com/shamshad-ansari/leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/shamshad-ansari/leetcode/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shamshad-ansari/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0901-online-stock-span](https://github.com/shamshad-ansari/leetcode/tree/master/0901-online-stock-span) |
 | [0981-time-based-key-value-store](https://github.com/shamshad-ansari/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1396-design-underground-system](https://github.com/shamshad-ansari/leetcode/tree/master/1396-design-underground-system) |
 ## Doubly-Linked List
@@ -283,11 +284,13 @@ Leetcode questions I solved
 | [0155-min-stack](https://github.com/shamshad-ansari/leetcode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/shamshad-ansari/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shamshad-ansari/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/shamshad-ansari/leetcode/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/shamshad-ansari/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shamshad-ansari/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/shamshad-ansari/leetcode/tree/master/0901-online-stock-span) |
 ## Greedy
 |  |
 | ------- |
@@ -441,4 +444,8 @@ Leetcode questions I solved
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/shamshad-ansari/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/shamshad-ansari/leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
