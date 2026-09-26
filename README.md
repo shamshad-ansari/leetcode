@@ -43,6 +43,7 @@ Leetcode questions I solved
 | [1002-find-common-characters](https://github.com/shamshad-ansari/leetcode/tree/master/1002-find-common-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/shamshad-ansari/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1584-min-cost-to-connect-all-points](https://github.com/shamshad-ansari/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shamshad-ansari/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/shamshad-ansari/leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shamshad-ansari/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shamshad-ansari/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -89,6 +90,7 @@ Leetcode questions I solved
 | [0540-single-element-in-a-sorted-array](https://github.com/shamshad-ansari/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0778-swim-in-rising-water](https://github.com/shamshad-ansari/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0981-time-based-key-value-store](https://github.com/shamshad-ansari/leetcode/tree/master/0981-time-based-key-value-store) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shamshad-ansari/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/shamshad-ansari/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Depth-First Search
 |  |
@@ -182,6 +184,7 @@ Leetcode questions I solved
 | [1189-maximum-number-of-balloons](https://github.com/shamshad-ansari/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/shamshad-ansari/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1396-design-underground-system](https://github.com/shamshad-ansari/leetcode/tree/master/1396-design-underground-system) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shamshad-ansari/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2206-divide-array-into-equal-pairs](https://github.com/shamshad-ansari/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/shamshad-ansari/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shamshad-ansari/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -326,12 +329,14 @@ Leetcode questions I solved
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/shamshad-ansari/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shamshad-ansari/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/shamshad-ansari/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/shamshad-ansari/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0904-fruit-into-baskets](https://github.com/shamshad-ansari/leetcode/tree/master/0904-fruit-into-baskets) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shamshad-ansari/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/shamshad-ansari/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shamshad-ansari/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Counting
