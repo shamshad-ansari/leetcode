@@ -89,6 +89,7 @@ Leetcode questions I solved
 | [0540-single-element-in-a-sorted-array](https://github.com/shamshad-ansari/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0778-swim-in-rising-water](https://github.com/shamshad-ansari/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0981-time-based-key-value-store](https://github.com/shamshad-ansari/leetcode/tree/master/0981-time-based-key-value-store) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/shamshad-ansari/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -242,6 +243,7 @@ Leetcode questions I solved
 | [1071-greatest-common-divisor-of-strings](https://github.com/shamshad-ansari/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/shamshad-ansari/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1396-design-underground-system](https://github.com/shamshad-ansari/leetcode/tree/master/1396-design-underground-system) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/shamshad-ansari/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shamshad-ansari/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3612-process-string-with-special-operations-i](https://github.com/shamshad-ansari/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 ## Trie
@@ -324,11 +326,13 @@ Leetcode questions I solved
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/shamshad-ansari/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/shamshad-ansari/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/shamshad-ansari/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0904-fruit-into-baskets](https://github.com/shamshad-ansari/leetcode/tree/master/0904-fruit-into-baskets) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/shamshad-ansari/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shamshad-ansari/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Counting
 |  |
