@@ -27,6 +27,7 @@ Leetcode questions I solved
 | [0217-contains-duplicate](https://github.com/shamshad-ansari/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shamshad-ansari/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0252-meeting-rooms](https://github.com/shamshad-ansari/leetcode/tree/master/0252-meeting-rooms) |
+| [0253-meeting-rooms-ii](https://github.com/shamshad-ansari/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0322-coin-change](https://github.com/shamshad-ansari/leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/shamshad-ansari/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shamshad-ansari/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -135,6 +136,7 @@ Leetcode questions I solved
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0253-meeting-rooms-ii](https://github.com/shamshad-ansari/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/shamshad-ansari/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/shamshad-ansari/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0778-swim-in-rising-water](https://github.com/shamshad-ansari/leetcode/tree/master/0778-swim-in-rising-water) |
@@ -208,6 +210,7 @@ Leetcode questions I solved
 | [0217-contains-duplicate](https://github.com/shamshad-ansari/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shamshad-ansari/leetcode/tree/master/0242-valid-anagram) |
 | [0252-meeting-rooms](https://github.com/shamshad-ansari/leetcode/tree/master/0252-meeting-rooms) |
+| [0253-meeting-rooms-ii](https://github.com/shamshad-ansari/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/shamshad-ansari/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/shamshad-ansari/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0721-accounts-merge](https://github.com/shamshad-ansari/leetcode/tree/master/0721-accounts-merge) |
@@ -305,6 +308,7 @@ Leetcode questions I solved
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shamshad-ansari/leetcode/tree/master/0011-container-with-most-water) |
+| [0253-meeting-rooms-ii](https://github.com/shamshad-ansari/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0409-longest-palindrome](https://github.com/shamshad-ansari/leetcode/tree/master/0409-longest-palindrome) |
 | [0942-di-string-match](https://github.com/shamshad-ansari/leetcode/tree/master/0942-di-string-match) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shamshad-ansari/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -342,6 +346,7 @@ Leetcode questions I solved
 ## Prefix Sum
 |  |
 | ------- |
+| [0253-meeting-rooms-ii](https://github.com/shamshad-ansari/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/shamshad-ansari/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shamshad-ansari/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/shamshad-ansari/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -409,6 +414,7 @@ Leetcode questions I solved
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shamshad-ansari/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0143-reorder-list](https://github.com/shamshad-ansari/leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/shamshad-ansari/leetcode/tree/master/0148-sort-list) |
+| [0253-meeting-rooms-ii](https://github.com/shamshad-ansari/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0942-di-string-match](https://github.com/shamshad-ansari/leetcode/tree/master/0942-di-string-match) |
 ## String Matching
 |  |
