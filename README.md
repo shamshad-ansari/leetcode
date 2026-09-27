@@ -26,6 +26,7 @@ Leetcode questions I solved
 | [0200-number-of-islands](https://github.com/shamshad-ansari/leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/shamshad-ansari/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shamshad-ansari/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0252-meeting-rooms](https://github.com/shamshad-ansari/leetcode/tree/master/0252-meeting-rooms) |
 | [0322-coin-change](https://github.com/shamshad-ansari/leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/shamshad-ansari/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shamshad-ansari/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -206,6 +207,7 @@ Leetcode questions I solved
 | [0148-sort-list](https://github.com/shamshad-ansari/leetcode/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/shamshad-ansari/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shamshad-ansari/leetcode/tree/master/0242-valid-anagram) |
+| [0252-meeting-rooms](https://github.com/shamshad-ansari/leetcode/tree/master/0252-meeting-rooms) |
 | [0347-top-k-frequent-elements](https://github.com/shamshad-ansari/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/shamshad-ansari/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0721-accounts-merge](https://github.com/shamshad-ansari/leetcode/tree/master/0721-accounts-merge) |
@@ -386,6 +388,7 @@ Leetcode questions I solved
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/shamshad-ansari/leetcode/tree/master/0056-merge-intervals) |
+| [0252-meeting-rooms](https://github.com/shamshad-ansari/leetcode/tree/master/0252-meeting-rooms) |
 ## Geometry
 |  |
 | ------- |
