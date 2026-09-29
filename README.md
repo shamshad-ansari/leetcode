@@ -48,6 +48,7 @@ Leetcode questions I solved
 | [0973-k-closest-points-to-origin](https://github.com/shamshad-ansari/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1002-find-common-characters](https://github.com/shamshad-ansari/leetcode/tree/master/1002-find-common-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/shamshad-ansari/leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1539-kth-missing-positive-number](https://github.com/shamshad-ansari/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1584-min-cost-to-connect-all-points](https://github.com/shamshad-ansari/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shamshad-ansari/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/shamshad-ansari/leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
@@ -98,6 +99,7 @@ Leetcode questions I solved
 | [0540-single-element-in-a-sorted-array](https://github.com/shamshad-ansari/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0778-swim-in-rising-water](https://github.com/shamshad-ansari/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0981-time-based-key-value-store](https://github.com/shamshad-ansari/leetcode/tree/master/0981-time-based-key-value-store) |
+| [1539-kth-missing-positive-number](https://github.com/shamshad-ansari/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shamshad-ansari/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/shamshad-ansari/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Depth-First Search
