@@ -246,6 +246,7 @@ Leetcode questions I solved
 | [0058-length-of-last-word](https://github.com/shamshad-ansari/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/shamshad-ansari/leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/shamshad-ansari/leetcode/tree/master/0071-simplify-path) |
+| [0125-valid-palindrome](https://github.com/shamshad-ansari/leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/shamshad-ansari/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shamshad-ansari/leetcode/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/shamshad-ansari/leetcode/tree/master/0299-bulls-and-cows) |
@@ -413,6 +414,7 @@ Leetcode questions I solved
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shamshad-ansari/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shamshad-ansari/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shamshad-ansari/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/shamshad-ansari/leetcode/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/shamshad-ansari/leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/shamshad-ansari/leetcode/tree/master/0148-sort-list) |
 | [0253-meeting-rooms-ii](https://github.com/shamshad-ansari/leetcode/tree/master/0253-meeting-rooms-ii) |
