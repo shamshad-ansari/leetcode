@@ -23,6 +23,7 @@ Leetcode questions I solved
 | [0128-longest-consecutive-sequence](https://github.com/shamshad-ansari/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/shamshad-ansari/leetcode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/shamshad-ansari/leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/shamshad-ansari/leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/shamshad-ansari/leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/shamshad-ansari/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shamshad-ansari/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -175,6 +176,7 @@ Leetcode questions I solved
 | [0128-longest-consecutive-sequence](https://github.com/shamshad-ansari/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/shamshad-ansari/leetcode/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/shamshad-ansari/leetcode/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/shamshad-ansari/leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/shamshad-ansari/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/shamshad-ansari/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shamshad-ansari/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -208,6 +210,7 @@ Leetcode questions I solved
 | [0049-group-anagrams](https://github.com/shamshad-ansari/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/shamshad-ansari/leetcode/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/shamshad-ansari/leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/shamshad-ansari/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shamshad-ansari/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shamshad-ansari/leetcode/tree/master/0242-valid-anagram) |
 | [0252-meeting-rooms](https://github.com/shamshad-ansari/leetcode/tree/master/0252-meeting-rooms) |
@@ -333,6 +336,7 @@ Leetcode questions I solved
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shamshad-ansari/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/shamshad-ansari/leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/shamshad-ansari/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/shamshad-ansari/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/shamshad-ansari/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Simulation
@@ -363,6 +367,7 @@ Leetcode questions I solved
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shamshad-ansari/leetcode/tree/master/0169-majority-element) |
 | [0299-bulls-and-cows](https://github.com/shamshad-ansari/leetcode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/shamshad-ansari/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/shamshad-ansari/leetcode/tree/master/0383-ransom-note) |
@@ -479,4 +484,8 @@ Leetcode questions I solved
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/shamshad-ansari/leetcode/tree/master/0399-evaluate-division) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shamshad-ansari/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
