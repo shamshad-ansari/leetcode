@@ -3,11 +3,15 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        n = len(nums)
+        n = len(nums)      
+        result = []
+
         for i in range(n):
             if nums[i] != 0:
-                continue
-            for j in range(i+1,n):
-                if nums[j] != 0:
-                    nums[i], nums[j] = nums[j], nums[i]
-                    break
+                result.append(nums[i])
+
+        for i in range(len(result)):
+            nums[i] = result[i]
+        
+        for j in range(i+1,n):
+            nums[j] = 0
