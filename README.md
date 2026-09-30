@@ -262,6 +262,7 @@ Leetcode questions I solved
 | [0409-longest-palindrome](https://github.com/shamshad-ansari/leetcode/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/shamshad-ansari/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0721-accounts-merge](https://github.com/shamshad-ansari/leetcode/tree/master/0721-accounts-merge) |
+| [0796-rotate-string](https://github.com/shamshad-ansari/leetcode/tree/master/0796-rotate-string) |
 | [0942-di-string-match](https://github.com/shamshad-ansari/leetcode/tree/master/0942-di-string-match) |
 | [0981-time-based-key-value-store](https://github.com/shamshad-ansari/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1002-find-common-characters](https://github.com/shamshad-ansari/leetcode/tree/master/1002-find-common-characters) |
@@ -434,6 +435,7 @@ Leetcode questions I solved
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shamshad-ansari/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/shamshad-ansari/leetcode/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
