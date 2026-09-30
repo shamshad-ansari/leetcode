@@ -1,14 +1,11 @@
 class Solution:
     def findKthPositive(self, arr: list[int], k: int) -> int:
-        nums = [False] * 2001
-        count = 0 
-        for num in arr:
-            nums[num] = True
-        
-        for i in range(1, len(nums)): 
-            if nums[i] == False: 
+        s = set(arr)
+        i = 1
+        count = 0
+        while True:
+            if i not in s:
                 count += 1
-                print(count)
-
-                if k == count:
+                if count == k:
                     return i
+            i += 1
