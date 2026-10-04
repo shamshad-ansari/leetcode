@@ -163,6 +163,7 @@ Leetcode questions I solved
 | ------- |
 | [0120-triangle](https://github.com/shamshad-ansari/leetcode/tree/master/0120-triangle) |
 | [0322-coin-change](https://github.com/shamshad-ansari/leetcode/tree/master/0322-coin-change) |
+| [0678-valid-parenthesis-string](https://github.com/shamshad-ansari/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shamshad-ansari/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/shamshad-ansari/leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 ## Shortest Path
@@ -263,6 +264,7 @@ Leetcode questions I solved
 | [0399-evaluate-division](https://github.com/shamshad-ansari/leetcode/tree/master/0399-evaluate-division) |
 | [0409-longest-palindrome](https://github.com/shamshad-ansari/leetcode/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/shamshad-ansari/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/shamshad-ansari/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/shamshad-ansari/leetcode/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/shamshad-ansari/leetcode/tree/master/0796-rotate-string) |
 | [0942-di-string-match](https://github.com/shamshad-ansari/leetcode/tree/master/0942-di-string-match) |
@@ -309,6 +311,7 @@ Leetcode questions I solved
 | [0155-min-stack](https://github.com/shamshad-ansari/leetcode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/shamshad-ansari/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shamshad-ansari/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/shamshad-ansari/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0901-online-stock-span](https://github.com/shamshad-ansari/leetcode/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -322,6 +325,7 @@ Leetcode questions I solved
 | [0011-container-with-most-water](https://github.com/shamshad-ansari/leetcode/tree/master/0011-container-with-most-water) |
 | [0253-meeting-rooms-ii](https://github.com/shamshad-ansari/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0409-longest-palindrome](https://github.com/shamshad-ansari/leetcode/tree/master/0409-longest-palindrome) |
+| [0678-valid-parenthesis-string](https://github.com/shamshad-ansari/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0942-di-string-match](https://github.com/shamshad-ansari/leetcode/tree/master/0942-di-string-match) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shamshad-ansari/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Backtracking
@@ -499,4 +503,8 @@ Leetcode questions I solved
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shamshad-ansari/leetcode/tree/master/0169-majority-element) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/shamshad-ansari/leetcode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
