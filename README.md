@@ -267,6 +267,7 @@ Leetcode questions I solved
 | [0678-valid-parenthesis-string](https://github.com/shamshad-ansari/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/shamshad-ansari/leetcode/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/shamshad-ansari/leetcode/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/shamshad-ansari/leetcode/tree/master/0856-score-of-parentheses) |
 | [0942-di-string-match](https://github.com/shamshad-ansari/leetcode/tree/master/0942-di-string-match) |
 | [0981-time-based-key-value-store](https://github.com/shamshad-ansari/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1002-find-common-characters](https://github.com/shamshad-ansari/leetcode/tree/master/1002-find-common-characters) |
@@ -312,6 +313,7 @@ Leetcode questions I solved
 | [0496-next-greater-element-i](https://github.com/shamshad-ansari/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shamshad-ansari/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/shamshad-ansari/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/shamshad-ansari/leetcode/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/shamshad-ansari/leetcode/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -507,4 +509,5 @@ Leetcode questions I solved
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/shamshad-ansari/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/shamshad-ansari/leetcode/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
