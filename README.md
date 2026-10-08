@@ -84,6 +84,7 @@ Leetcode questions I solved
 | [0399-evaluate-division](https://github.com/shamshad-ansari/leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/shamshad-ansari/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/shamshad-ansari/leetcode/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/shamshad-ansari/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shamshad-ansari/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/shamshad-ansari/leetcode/tree/master/0841-keys-and-rooms) |
 | [1584-min-cost-to-connect-all-points](https://github.com/shamshad-ansari/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
@@ -116,6 +117,7 @@ Leetcode questions I solved
 | [0690-employee-importance](https://github.com/shamshad-ansari/leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/shamshad-ansari/leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/shamshad-ansari/leetcode/tree/master/0721-accounts-merge) |
+| [0743-network-delay-time](https://github.com/shamshad-ansari/leetcode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/shamshad-ansari/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shamshad-ansari/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/shamshad-ansari/leetcode/tree/master/0841-keys-and-rooms) |
@@ -134,6 +136,7 @@ Leetcode questions I solved
 | [0690-employee-importance](https://github.com/shamshad-ansari/leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/shamshad-ansari/leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/shamshad-ansari/leetcode/tree/master/0721-accounts-merge) |
+| [0743-network-delay-time](https://github.com/shamshad-ansari/leetcode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/shamshad-ansari/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shamshad-ansari/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/shamshad-ansari/leetcode/tree/master/0841-keys-and-rooms) |
@@ -145,6 +148,7 @@ Leetcode questions I solved
 | [0253-meeting-rooms-ii](https://github.com/shamshad-ansari/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/shamshad-ansari/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/shamshad-ansari/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0743-network-delay-time](https://github.com/shamshad-ansari/leetcode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/shamshad-ansari/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shamshad-ansari/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/shamshad-ansari/leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -170,6 +174,7 @@ Leetcode questions I solved
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/shamshad-ansari/leetcode/tree/master/0399-evaluate-division) |
+| [0743-network-delay-time](https://github.com/shamshad-ansari/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shamshad-ansari/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Hash Table
 |  |
@@ -230,6 +235,7 @@ Leetcode questions I solved
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/shamshad-ansari/leetcode/tree/master/0743-network-delay-time) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/shamshad-ansari/leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 ## Math
 |  |
