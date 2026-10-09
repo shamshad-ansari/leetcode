@@ -41,6 +41,7 @@ Leetcode questions I solved
 | [0690-employee-importance](https://github.com/shamshad-ansari/leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/shamshad-ansari/leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/shamshad-ansari/leetcode/tree/master/0721-accounts-merge) |
+| [0724-find-pivot-index](https://github.com/shamshad-ansari/leetcode/tree/master/0724-find-pivot-index) |
 | [0778-swim-in-rising-water](https://github.com/shamshad-ansari/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0885-spiral-matrix-iii](https://github.com/shamshad-ansari/leetcode/tree/master/0885-spiral-matrix-iii) |
 | [0904-fruit-into-baskets](https://github.com/shamshad-ansari/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -373,6 +374,7 @@ Leetcode questions I solved
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/shamshad-ansari/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/shamshad-ansari/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/shamshad-ansari/leetcode/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/shamshad-ansari/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shamshad-ansari/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/shamshad-ansari/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
