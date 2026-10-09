@@ -8,9 +8,7 @@ class Solution:
         ans = 1
 
         for num in nums:
-            if num - 1 in s or num in visited:
-                continue
-            else:
+            if num - 1 not in s and num not in visited:
                 count = 1
                 while num + 1 in s:
                     count += 1
@@ -18,3 +16,5 @@ class Solution:
                     visited.add(num)
                     num = num + 1
         return ans
+
+
