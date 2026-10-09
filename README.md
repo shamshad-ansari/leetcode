@@ -15,6 +15,7 @@ Leetcode questions I solved
 | [0039-combination-sum](https://github.com/shamshad-ansari/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shamshad-ansari/leetcode/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/shamshad-ansari/leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/shamshad-ansari/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/shamshad-ansari/leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/shamshad-ansari/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/shamshad-ansari/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -166,6 +167,7 @@ Leetcode questions I solved
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/shamshad-ansari/leetcode/tree/master/0053-maximum-subarray) |
 | [0120-triangle](https://github.com/shamshad-ansari/leetcode/tree/master/0120-triangle) |
 | [0322-coin-change](https://github.com/shamshad-ansari/leetcode/tree/master/0322-coin-change) |
 | [0678-valid-parenthesis-string](https://github.com/shamshad-ansari/leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -355,6 +357,7 @@ Leetcode questions I solved
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shamshad-ansari/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/shamshad-ansari/leetcode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/shamshad-ansari/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/shamshad-ansari/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/shamshad-ansari/leetcode/tree/master/0347-top-k-frequent-elements) |
