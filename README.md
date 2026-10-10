@@ -43,6 +43,7 @@ Leetcode questions I solved
 | [0695-max-area-of-island](https://github.com/shamshad-ansari/leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/shamshad-ansari/leetcode/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/shamshad-ansari/leetcode/tree/master/0724-find-pivot-index) |
+| [0773-sliding-puzzle](https://github.com/shamshad-ansari/leetcode/tree/master/0773-sliding-puzzle) |
 | [0778-swim-in-rising-water](https://github.com/shamshad-ansari/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0885-spiral-matrix-iii](https://github.com/shamshad-ansari/leetcode/tree/master/0885-spiral-matrix-iii) |
 | [0904-fruit-into-baskets](https://github.com/shamshad-ansari/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -139,6 +140,7 @@ Leetcode questions I solved
 | [0695-max-area-of-island](https://github.com/shamshad-ansari/leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/shamshad-ansari/leetcode/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/shamshad-ansari/leetcode/tree/master/0743-network-delay-time) |
+| [0773-sliding-puzzle](https://github.com/shamshad-ansari/leetcode/tree/master/0773-sliding-puzzle) |
 | [0778-swim-in-rising-water](https://github.com/shamshad-ansari/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shamshad-ansari/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/shamshad-ansari/leetcode/tree/master/0841-keys-and-rooms) |
@@ -161,6 +163,7 @@ Leetcode questions I solved
 | [0130-surrounded-regions](https://github.com/shamshad-ansari/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shamshad-ansari/leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/shamshad-ansari/leetcode/tree/master/0695-max-area-of-island) |
+| [0773-sliding-puzzle](https://github.com/shamshad-ansari/leetcode/tree/master/0773-sliding-puzzle) |
 | [0778-swim-in-rising-water](https://github.com/shamshad-ansari/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0885-spiral-matrix-iii](https://github.com/shamshad-ansari/leetcode/tree/master/0885-spiral-matrix-iii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shamshad-ansari/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -171,6 +174,7 @@ Leetcode questions I solved
 | [0120-triangle](https://github.com/shamshad-ansari/leetcode/tree/master/0120-triangle) |
 | [0322-coin-change](https://github.com/shamshad-ansari/leetcode/tree/master/0322-coin-change) |
 | [0678-valid-parenthesis-string](https://github.com/shamshad-ansari/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0773-sliding-puzzle](https://github.com/shamshad-ansari/leetcode/tree/master/0773-sliding-puzzle) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shamshad-ansari/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/shamshad-ansari/leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 ## Shortest Path
@@ -345,6 +349,7 @@ Leetcode questions I solved
 | [0039-combination-sum](https://github.com/shamshad-ansari/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shamshad-ansari/leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/shamshad-ansari/leetcode/tree/master/0078-subsets) |
+| [0773-sliding-puzzle](https://github.com/shamshad-ansari/leetcode/tree/master/0773-sliding-puzzle) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -521,4 +526,20 @@ Leetcode questions I solved
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/shamshad-ansari/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/shamshad-ansari/leetcode/tree/master/0856-score-of-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0773-sliding-puzzle](https://github.com/shamshad-ansari/leetcode/tree/master/0773-sliding-puzzle) |
+## Heuristic Search
+|  |
+| ------- |
+| [0773-sliding-puzzle](https://github.com/shamshad-ansari/leetcode/tree/master/0773-sliding-puzzle) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0773-sliding-puzzle](https://github.com/shamshad-ansari/leetcode/tree/master/0773-sliding-puzzle) |
+## A* Search
+|  |
+| ------- |
+| [0773-sliding-puzzle](https://github.com/shamshad-ansari/leetcode/tree/master/0773-sliding-puzzle) |
 <!---LeetCode Topics End-->
