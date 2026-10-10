@@ -17,6 +17,7 @@ Leetcode questions I solved
 | [0049-group-anagrams](https://github.com/shamshad-ansari/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/shamshad-ansari/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/shamshad-ansari/leetcode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/shamshad-ansari/leetcode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/shamshad-ansari/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/shamshad-ansari/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/shamshad-ansari/leetcode/tree/master/0078-subsets) |
