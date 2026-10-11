@@ -36,6 +36,7 @@ Leetcode questions I solved
 | [0322-coin-change](https://github.com/shamshad-ansari/leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/shamshad-ansari/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shamshad-ansari/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/shamshad-ansari/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0399-evaluate-division](https://github.com/shamshad-ansari/leetcode/tree/master/0399-evaluate-division) |
 | [0496-next-greater-element-i](https://github.com/shamshad-ansari/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shamshad-ansari/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -205,6 +206,7 @@ Leetcode questions I solved
 | [0299-bulls-and-cows](https://github.com/shamshad-ansari/leetcode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/shamshad-ansari/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shamshad-ansari/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/shamshad-ansari/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0383-ransom-note](https://github.com/shamshad-ansari/leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/shamshad-ansari/leetcode/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/shamshad-ansari/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -256,6 +258,7 @@ Leetcode questions I solved
 | [0066-plus-one](https://github.com/shamshad-ansari/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/shamshad-ansari/leetcode/tree/master/0067-add-binary) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shamshad-ansari/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/shamshad-ansari/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0836-rectangle-overlap](https://github.com/shamshad-ansari/leetcode/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/shamshad-ansari/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shamshad-ansari/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -316,6 +319,7 @@ Leetcode questions I solved
 | [0146-lru-cache](https://github.com/shamshad-ansari/leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/shamshad-ansari/leetcode/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shamshad-ansari/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/shamshad-ansari/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0901-online-stock-span](https://github.com/shamshad-ansari/leetcode/tree/master/0901-online-stock-span) |
 | [0981-time-based-key-value-store](https://github.com/shamshad-ansari/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1032-stream-of-characters](https://github.com/shamshad-ansari/leetcode/tree/master/1032-stream-of-characters) |
@@ -512,6 +516,7 @@ Leetcode questions I solved
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/shamshad-ansari/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/shamshad-ansari/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## Data Stream
 |  |
 | ------- |
