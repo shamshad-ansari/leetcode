@@ -3,7 +3,7 @@ class StreamChecker:
     def __init__(self, words: list[str]):
         self.trie = {}
         self.stream = deque([])
-        self.max = max(words)
+        self.max = max(len(word) for word in words)
 
         for word in words:
             node = self.trie
@@ -16,7 +16,8 @@ class StreamChecker:
     def query(self, letter: str) -> bool:
         self.stream.appendleft(letter)
 
-        # while len(stream) > 
+        while len(self.stream) > self.max:
+            self.stream.pop()
 
         node = self.trie
         for ch in self.stream:
