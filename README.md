@@ -61,6 +61,7 @@ Leetcode questions I solved
 | [1584-min-cost-to-connect-all-points](https://github.com/shamshad-ansari/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shamshad-ansari/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/shamshad-ansari/leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/shamshad-ansari/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shamshad-ansari/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shamshad-ansari/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/shamshad-ansari/leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
@@ -339,12 +340,14 @@ Leetcode questions I solved
 | [0678-valid-parenthesis-string](https://github.com/shamshad-ansari/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/shamshad-ansari/leetcode/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/shamshad-ansari/leetcode/tree/master/0901-online-stock-span) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/shamshad-ansari/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/shamshad-ansari/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shamshad-ansari/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/shamshad-ansari/leetcode/tree/master/0901-online-stock-span) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/shamshad-ansari/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Greedy
 |  |
 | ------- |
