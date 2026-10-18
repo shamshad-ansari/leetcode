@@ -292,6 +292,7 @@ Leetcode questions I solved
 | [0721-accounts-merge](https://github.com/shamshad-ansari/leetcode/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/shamshad-ansari/leetcode/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/shamshad-ansari/leetcode/tree/master/0856-score-of-parentheses) |
+| [0925-long-pressed-name](https://github.com/shamshad-ansari/leetcode/tree/master/0925-long-pressed-name) |
 | [0942-di-string-match](https://github.com/shamshad-ansari/leetcode/tree/master/0942-di-string-match) |
 | [0981-time-based-key-value-store](https://github.com/shamshad-ansari/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1002-find-common-characters](https://github.com/shamshad-ansari/leetcode/tree/master/1002-find-common-characters) |
@@ -472,6 +473,7 @@ Leetcode questions I solved
 | [0148-sort-list](https://github.com/shamshad-ansari/leetcode/tree/master/0148-sort-list) |
 | [0253-meeting-rooms-ii](https://github.com/shamshad-ansari/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0283-move-zeroes](https://github.com/shamshad-ansari/leetcode/tree/master/0283-move-zeroes) |
+| [0925-long-pressed-name](https://github.com/shamshad-ansari/leetcode/tree/master/0925-long-pressed-name) |
 | [0942-di-string-match](https://github.com/shamshad-ansari/leetcode/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/shamshad-ansari/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## String Matching
