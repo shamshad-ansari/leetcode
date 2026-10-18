@@ -18,7 +18,7 @@ class Solution:
                 i += 1
                 j += 1
 
-            while j < m and j > 0 and typed[j] == typed[j - 1]:
+            while j < m and typed[j] == typed[j - 1]:
                 j += 1
 
             if i < n and j < m and name[i] != typed[j]:
