@@ -60,6 +60,7 @@ Leetcode questions I solved
 | [1331-rank-transform-of-an-array](https://github.com/shamshad-ansari/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/shamshad-ansari/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1584-min-cost-to-connect-all-points](https://github.com/shamshad-ansari/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+| [1631-path-with-minimum-effort](https://github.com/shamshad-ansari/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shamshad-ansari/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/shamshad-ansari/leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/shamshad-ansari/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -85,6 +86,7 @@ Leetcode questions I solved
 | [0721-accounts-merge](https://github.com/shamshad-ansari/leetcode/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/shamshad-ansari/leetcode/tree/master/0778-swim-in-rising-water) |
 | [1584-min-cost-to-connect-all-points](https://github.com/shamshad-ansari/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+| [1631-path-with-minimum-effort](https://github.com/shamshad-ansari/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shamshad-ansari/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -112,6 +114,7 @@ Leetcode questions I solved
 | [0778-swim-in-rising-water](https://github.com/shamshad-ansari/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0981-time-based-key-value-store](https://github.com/shamshad-ansari/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1539-kth-missing-positive-number](https://github.com/shamshad-ansari/leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1631-path-with-minimum-effort](https://github.com/shamshad-ansari/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shamshad-ansari/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/shamshad-ansari/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Depth-First Search
@@ -131,6 +134,7 @@ Leetcode questions I solved
 | [0778-swim-in-rising-water](https://github.com/shamshad-ansari/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shamshad-ansari/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/shamshad-ansari/leetcode/tree/master/0841-keys-and-rooms) |
+| [1631-path-with-minimum-effort](https://github.com/shamshad-ansari/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shamshad-ansari/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shamshad-ansari/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
@@ -151,6 +155,7 @@ Leetcode questions I solved
 | [0778-swim-in-rising-water](https://github.com/shamshad-ansari/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shamshad-ansari/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/shamshad-ansari/leetcode/tree/master/0841-keys-and-rooms) |
+| [1631-path-with-minimum-effort](https://github.com/shamshad-ansari/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shamshad-ansari/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shamshad-ansari/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Heap (Priority Queue)
@@ -163,6 +168,7 @@ Leetcode questions I solved
 | [0778-swim-in-rising-water](https://github.com/shamshad-ansari/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shamshad-ansari/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/shamshad-ansari/leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1631-path-with-minimum-effort](https://github.com/shamshad-ansari/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
 | ------- |
@@ -173,6 +179,7 @@ Leetcode questions I solved
 | [0773-sliding-puzzle](https://github.com/shamshad-ansari/leetcode/tree/master/0773-sliding-puzzle) |
 | [0778-swim-in-rising-water](https://github.com/shamshad-ansari/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0885-spiral-matrix-iii](https://github.com/shamshad-ansari/leetcode/tree/master/0885-spiral-matrix-iii) |
+| [1631-path-with-minimum-effort](https://github.com/shamshad-ansari/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shamshad-ansari/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Dynamic Programming
 |  |
@@ -254,6 +261,7 @@ Leetcode questions I solved
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/shamshad-ansari/leetcode/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/shamshad-ansari/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/shamshad-ansari/leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 ## Math
 |  |
