@@ -312,6 +312,7 @@ Leetcode questions I solved
 | [0678-valid-parenthesis-string](https://github.com/shamshad-ansari/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/shamshad-ansari/leetcode/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/shamshad-ansari/leetcode/tree/master/0796-rotate-string) |
+| [0824-goat-latin](https://github.com/shamshad-ansari/leetcode/tree/master/0824-goat-latin) |
 | [0856-score-of-parentheses](https://github.com/shamshad-ansari/leetcode/tree/master/0856-score-of-parentheses) |
 | [0925-long-pressed-name](https://github.com/shamshad-ansari/leetcode/tree/master/0925-long-pressed-name) |
 | [0942-di-string-match](https://github.com/shamshad-ansari/leetcode/tree/master/0942-di-string-match) |
