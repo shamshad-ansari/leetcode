@@ -44,6 +44,7 @@ Leetcode questions I solved
 | [0540-single-element-in-a-sorted-array](https://github.com/shamshad-ansari/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shamshad-ansari/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0690-employee-importance](https://github.com/shamshad-ansari/leetcode/tree/master/0690-employee-importance) |
+| [0694-number-of-distinct-islands](https://github.com/shamshad-ansari/leetcode/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/shamshad-ansari/leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/shamshad-ansari/leetcode/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/shamshad-ansari/leetcode/tree/master/0724-find-pivot-index) |
@@ -82,6 +83,7 @@ Leetcode questions I solved
 | [0399-evaluate-division](https://github.com/shamshad-ansari/leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/shamshad-ansari/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/shamshad-ansari/leetcode/tree/master/0684-redundant-connection) |
+| [0694-number-of-distinct-islands](https://github.com/shamshad-ansari/leetcode/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/shamshad-ansari/leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/shamshad-ansari/leetcode/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/shamshad-ansari/leetcode/tree/master/0778-swim-in-rising-water) |
@@ -128,6 +130,7 @@ Leetcode questions I solved
 | [0547-number-of-provinces](https://github.com/shamshad-ansari/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/shamshad-ansari/leetcode/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/shamshad-ansari/leetcode/tree/master/0690-employee-importance) |
+| [0694-number-of-distinct-islands](https://github.com/shamshad-ansari/leetcode/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/shamshad-ansari/leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/shamshad-ansari/leetcode/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/shamshad-ansari/leetcode/tree/master/0743-network-delay-time) |
@@ -148,6 +151,7 @@ Leetcode questions I solved
 | [0547-number-of-provinces](https://github.com/shamshad-ansari/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/shamshad-ansari/leetcode/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/shamshad-ansari/leetcode/tree/master/0690-employee-importance) |
+| [0694-number-of-distinct-islands](https://github.com/shamshad-ansari/leetcode/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/shamshad-ansari/leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/shamshad-ansari/leetcode/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/shamshad-ansari/leetcode/tree/master/0743-network-delay-time) |
@@ -175,6 +179,7 @@ Leetcode questions I solved
 | [0073-set-matrix-zeroes](https://github.com/shamshad-ansari/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/shamshad-ansari/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shamshad-ansari/leetcode/tree/master/0200-number-of-islands) |
+| [0694-number-of-distinct-islands](https://github.com/shamshad-ansari/leetcode/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/shamshad-ansari/leetcode/tree/master/0695-max-area-of-island) |
 | [0773-sliding-puzzle](https://github.com/shamshad-ansari/leetcode/tree/master/0773-sliding-puzzle) |
 | [0778-swim-in-rising-water](https://github.com/shamshad-ansari/leetcode/tree/master/0778-swim-in-rising-water) |
@@ -225,6 +230,7 @@ Leetcode questions I solved
 | [0496-next-greater-element-i](https://github.com/shamshad-ansari/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/shamshad-ansari/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0690-employee-importance](https://github.com/shamshad-ansari/leetcode/tree/master/0690-employee-importance) |
+| [0694-number-of-distinct-islands](https://github.com/shamshad-ansari/leetcode/tree/master/0694-number-of-distinct-islands) |
 | [0721-accounts-merge](https://github.com/shamshad-ansari/leetcode/tree/master/0721-accounts-merge) |
 | [0904-fruit-into-baskets](https://github.com/shamshad-ansari/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/shamshad-ansari/leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -253,6 +259,7 @@ Leetcode questions I solved
 | [0253-meeting-rooms-ii](https://github.com/shamshad-ansari/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/shamshad-ansari/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/shamshad-ansari/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0694-number-of-distinct-islands](https://github.com/shamshad-ansari/leetcode/tree/master/0694-number-of-distinct-islands) |
 | [0721-accounts-merge](https://github.com/shamshad-ansari/leetcode/tree/master/0721-accounts-merge) |
 | [0973-k-closest-points-to-origin](https://github.com/shamshad-ansari/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/shamshad-ansari/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -583,4 +590,8 @@ Leetcode questions I solved
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/shamshad-ansari/leetcode/tree/master/0337-house-robber-iii) |
+## Hash Function
+|  |
+| ------- |
+| [0694-number-of-distinct-islands](https://github.com/shamshad-ansari/leetcode/tree/master/0694-number-of-distinct-islands) |
 <!---LeetCode Topics End-->
