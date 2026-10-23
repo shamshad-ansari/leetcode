@@ -58,6 +58,7 @@ Leetcode questions I solved
 | [0977-squares-of-a-sorted-array](https://github.com/shamshad-ansari/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/shamshad-ansari/leetcode/tree/master/1002-find-common-characters) |
 | [1032-stream-of-characters](https://github.com/shamshad-ansari/leetcode/tree/master/1032-stream-of-characters) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/shamshad-ansari/leetcode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/shamshad-ansari/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/shamshad-ansari/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1584-min-cost-to-connect-all-points](https://github.com/shamshad-ansari/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
@@ -197,6 +198,7 @@ Leetcode questions I solved
 | [0678-valid-parenthesis-string](https://github.com/shamshad-ansari/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0773-sliding-puzzle](https://github.com/shamshad-ansari/leetcode/tree/master/0773-sliding-puzzle) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shamshad-ansari/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/shamshad-ansari/leetcode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/shamshad-ansari/leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 ## Shortest Path
 |  |
@@ -237,6 +239,7 @@ Leetcode questions I solved
 | [0981-time-based-key-value-store](https://github.com/shamshad-ansari/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1002-find-common-characters](https://github.com/shamshad-ansari/leetcode/tree/master/1002-find-common-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/shamshad-ansari/leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/shamshad-ansari/leetcode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/shamshad-ansari/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1396-design-underground-system](https://github.com/shamshad-ansari/leetcode/tree/master/1396-design-underground-system) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shamshad-ansari/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
