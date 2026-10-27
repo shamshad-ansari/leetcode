@@ -192,6 +192,7 @@ Leetcode questions I solved
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shamshad-ansari/leetcode/tree/master/0053-maximum-subarray) |
+| [0091-decode-ways](https://github.com/shamshad-ansari/leetcode/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/shamshad-ansari/leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/shamshad-ansari/leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/shamshad-ansari/leetcode/tree/master/0322-coin-change) |
@@ -300,6 +301,7 @@ Leetcode questions I solved
 | [0058-length-of-last-word](https://github.com/shamshad-ansari/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/shamshad-ansari/leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/shamshad-ansari/leetcode/tree/master/0071-simplify-path) |
+| [0091-decode-ways](https://github.com/shamshad-ansari/leetcode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/shamshad-ansari/leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/shamshad-ansari/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shamshad-ansari/leetcode/tree/master/0242-valid-anagram) |
